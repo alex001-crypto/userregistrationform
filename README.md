@@ -14,3 +14,4 @@ semantic-html-form/ ├── index.html # Main HTML form implementation └─�
 
 Implementation notes
 Semantic elements used: (main, section, form, fieldset, legend, label, input, select, textarea, button). Inputs are grouped meaningfully using (fieldset) and described with (legend). All form controls are explicitly labeled using (for) and (id) attributes.
+to access the visitfile:///C:/Users/morry/OneDrive/Desktop/user%20registration%20form/user%20registration%20form/index.html
